@@ -61,7 +61,7 @@ npm run build
 
 ## 🌐 Live Demo
 
-🔗 [Live on Vercel](https://gas-tracker-harshit.vercel.app)
+🔗 [Live on Vercel](https://gas-tracker-eosin.vercel.app/)
 
 ## 🧑‍💻 Author
 
